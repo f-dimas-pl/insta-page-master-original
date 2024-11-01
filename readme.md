@@ -1,9 +1,9 @@
 ### Приложение на JavaScript "Instagram-Визитка"
 
-<div style="display: flex; gap: 35px; align-items: center">
-    <img style="max-width: 100%; height: 100%; width: 60px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img style="max-width: 100%; height: 100%;  width: 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png">
-    <img style="max-width: 100%; height: 100%; width: 140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png">
+<div style="display: flex; align-items: center">
+    <img style="max-width: 100%; height: 100%; width: 60px; margin-left: 20px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img style="max-width: 100%; height: 100%;  width: 60px; margin-left: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png">
+    <img style="max-width: 100%; height: 100%; width: 140px; margin-left: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png">
 </div>
 
 
