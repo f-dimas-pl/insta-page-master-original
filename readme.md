@@ -1,5 +1,11 @@
 ### Приложение на JavaScript "Instagram-Визитка"
 
+<div style="display: flex; gap: 20px">
+    <img style="width: 60px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img style="width: 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png">
+</div>
+
+
 #### Запустить проект
 
 1. У вас должен быть установлен npm. Установить можно отсюда [nodejs.org/en/](https://nodejs.org/en/). Ставим LTS версию. На текущий момент это `22.11.0 LTS`. (Большая зеленая кнопка слева)
